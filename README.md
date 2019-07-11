@@ -1,5 +1,5 @@
 # ALL-UNDER-ONE-AU1-
-#### This is the use of python tkinter library to design a simple interface that will house productivity applications for easier navigation.
+### This is the use of python tkinter library to design a simple interface that will house productivity applications for easier navigation.
 ===============
 Getting started
 ===============
