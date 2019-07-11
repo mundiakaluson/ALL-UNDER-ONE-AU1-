@@ -1,4 +1,4 @@
-# ALL-UNDER-ONE-AU1-
+# ALL-UNDER-ONE-AU1
 ### This is the use of python tkinter library to design a simple interface that will house productivity applications for easier navigation.
 
 ### Getting started
@@ -50,11 +50,11 @@ All Under One(AU1) app is a free open source code that demonstrates the use of P
 
 
 ### Just in case you find it hard using my text editor here's how to open, create and save a .txt file:
-* OPENING A TEXT FILE
+* OPENING A TEXT FILE-
 Type the text file name in the Title section and click on open to view contents of the text file
-* CREATING A TEXT FILE
+* CREATING A TEXT FILE-
 Type the tile of the text file. Write your contents and click save. The text file will be saved in the same directory the app is in.
-* SAVING A TEXT FILE
+* SAVING A TEXT FILE-
 After working on your text file, you click on save.
 
 **Developer info**
@@ -62,4 +62,4 @@ Github: mundiakaluson
 
 Email: mundiakaluson@gmail.com
 
-#Copyright © mundiakaluson | 2019 | v1.0
+Copyright © mundiakaluson | 2019 | v1.0
